@@ -27,7 +27,7 @@ This website easily reduces some problems like a patient who is not going offlin
 
 -This website gives some free services like giving free sessions on mental illness, diet plans for your mental health, yoga meditation sessions, blogs on different articles on mental illness and etc.
 
--This website are using Azure web App service, health bot
+-This website are using Azure web App service, a static web app
 
 ## Technologies Used
-Azure Web App Services, health bot, HTML, CSS, JavaScript
+HTML, CSS, JavaScrip
